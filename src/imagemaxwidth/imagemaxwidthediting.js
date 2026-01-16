@@ -1,6 +1,5 @@
-import Plugin from "@ckeditor/ckeditor5-core/src/plugin";
+import { ImageUtils, Plugin } from 'ckeditor5';
 import ImageMaxWidthCommand from "./imagemaxwidthcommand";
-import ImageUtils from "@ckeditor/ckeditor5-image/src/imageutils";
 
 export default class ImageMaxWidthEditing extends Plugin {
     /**

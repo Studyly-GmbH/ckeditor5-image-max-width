@@ -1,5 +1,4 @@
-import Plugin from '@ckeditor/ckeditor5-core/src/plugin';
-import InputTextView from "@ckeditor/ckeditor5-ui/src/inputtext/inputtextview";
+import { InputTextView, Plugin } from 'ckeditor5';
 
 import '../../theme/image-max-width.css';
 
