@@ -4,6 +4,5 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: \n"
 
-msgctxt "max-width"
 msgid "max-width"
 msgstr "max-width"
