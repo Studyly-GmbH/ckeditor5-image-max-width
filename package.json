@@ -13,7 +13,7 @@
     "plugin"
   ],
   "dependencies": {
-    "ckeditor5": "48.0.0"
+    "ckeditor5": "48.1.0"
   },
   "repository": {
     "type": "git",
